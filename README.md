@@ -3,7 +3,7 @@
 What it is: HTML is the foundational language for creating web pages. It defines the structure and content of a webpage. Think of it as the skeleton or blueprint of your website.
 
 # Key Function:
-It uses a series of "tags" (like <p> for a paragraph, <h1> for a heading, <img> for an image) to organize content and create the logical flow of the page.
+It uses a series of "tags" (like for a paragraph, for a heading, for an image} to organize content and create the logical flow of the page.
 
 # CSS (Cascading Style Sheets)
 What it is:  CSS is a style sheet language used to describe the presentation of a document written in HTML. It controls how the HTML elements are displayed on the screen.
